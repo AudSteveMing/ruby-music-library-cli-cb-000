@@ -81,6 +81,6 @@ def play_song
 
   puts "Playing #{song.name} by #{song.artist.name}" if song
 end
-end
+
 
 end
