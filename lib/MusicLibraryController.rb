@@ -27,6 +27,7 @@ def list_songs
     puts "#{i}. #{s.artist.name} - #{s.name} - #{s.genre.name}"
   end
 end
+binding.pry
 
 def list_artists
 Artist.all.sort{ |a, b| a.name <=> b.name}.each.with_index(1) do |s, i|
@@ -65,7 +66,10 @@ end
 
 def play_song
   puts "Which song number would you like to play?"
-  input = gets.strip
+  song = gets.strip
+  if song = 
+    #if song matches 
+  
 end
 
 
