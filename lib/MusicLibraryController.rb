@@ -63,11 +63,11 @@ def list_songs_by_genre
 end
 end
 
-def play_song
-  puts "Which song number would you like to play?"
-  song = gets.strip
-#   if song =
-#     #if song matches list_songs array then
-#
-end
+# def play_song
+#   puts "Which song number would you like to play?"
+#   song = gets.strip
+# #   if song =
+# #     #if song matches list_songs array then
+# #
+# end
 end
