@@ -70,8 +70,5 @@ def play_song
 #   if song =
 #     #if song matches
 #
-# end
-
-
-
+end
 end
