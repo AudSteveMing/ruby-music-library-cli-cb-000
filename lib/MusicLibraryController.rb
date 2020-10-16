@@ -67,9 +67,9 @@ end
 def play_song
   puts "Which song number would you like to play?"
   song = gets.strip
-  if song = 
-    #if song matches 
-  
+  if song =
+    #if song matches
+
 end
 
 
